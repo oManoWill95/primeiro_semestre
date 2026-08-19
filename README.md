@@ -1,4 +1,4 @@
-# 🐍 Atividades - 1º Semestre de Ciência da Computação
+# 🐍 Atividades - 1º Semestre de Ciência da Computação - 2025/2
 
 Este repositório reúne as atividades e projetos desenvolvidos durante o meu primeiro semestre da faculdade de Ciência da Computação.
 
