@@ -1,0 +1,9 @@
+quantidade = 120
+preco_unitario = 40
+taxa_imposto = 40
+
+valor total = quantidade * preco_unitario
+total imposto /100
+
+print ("Total de imposto:", total_imposto
+
