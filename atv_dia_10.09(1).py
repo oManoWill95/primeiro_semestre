@@ -6,4 +6,3 @@ valor total = quantidade * preco_unitario
 total imposto /100
 
 print ("Total de imposto:", total_imposto
-
